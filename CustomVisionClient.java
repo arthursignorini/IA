@@ -13,7 +13,7 @@ public class CustomVisionClient {
         String predictionKey = "7f7e301ecf9247798b05bc9f12567333";
         
         // Caminho da imagem que será enviada para a classificação
-        Path imagePath = Paths.get("basketball/1.jpg");
+        Path imagePath = Paths.get("basketball/5.jpg");
 
         try {
             // Criação do cliente HTTP
