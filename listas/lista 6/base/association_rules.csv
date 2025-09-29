@@ -1,0 +1,12 @@
+antecedent,consequent,support,confidence,lift
+Café,Pão,0.4,0.8,1.333
+Café,Manteiga,0.4,0.8,1.6
+Manteiga,Café,0.4,0.8,1.6
+Manteiga,Pão,0.4,0.8,1.333
+Café & Manteiga,Pão,0.3,0.75,1.25
+Café & Pão,Manteiga,0.3,0.75,1.5
+Manteiga & Pão,Café,0.3,0.75,1.5
+Pão,Café,0.4,0.667,1.333
+Pão,Manteiga,0.4,0.667,1.333
+Café,Manteiga & Pão,0.3,0.6,1.5
+Manteiga,Café & Pão,0.3,0.6,1.5

@@ -1,0 +1,9 @@
+itemset,size,support,count
+Pão,1,0.6,6
+Café,1,0.5,5
+Manteiga,1,0.5,5
+Arroz,1,0.3,3
+Café & Manteiga,2,0.4,4
+Café & Pão,2,0.4,4
+Manteiga & Pão,2,0.4,4
+Café & Manteiga & Pão,3,0.3,3
